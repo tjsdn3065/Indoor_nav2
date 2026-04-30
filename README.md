@@ -40,10 +40,12 @@ sudo apt install \
     ros-jazzy-pointcloud-to-laserscan \
     ros-jazzy-teleop-twist-keyboard \
     ros-jazzy-realsense2-description \
+    ros-jazzy-velodyne \
     ros-jazzy-velodyne-description \
     ros-jazzy-xacro \
     ros-jazzy-robot-state-publisher \
     ros-jazzy-joint-state-publisher \
+    ros-jazzy-joint-state-publisher-gui \
     ros-jazzy-robot-localization \
     ros-jazzy-ros2-control \
     ros-jazzy-ros2-controllers \
