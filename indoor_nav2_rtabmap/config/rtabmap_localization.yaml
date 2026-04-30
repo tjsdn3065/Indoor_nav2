@@ -1,0 +1,7 @@
+
+/**:
+  ros__parameters:
+    Mem/IncrementalMemory: "false"
+    Mem/InitWMWithAllNodes: "true"
+    RGBD/StartAtOrigin: "true"
+    Reg/Strategy: "1"

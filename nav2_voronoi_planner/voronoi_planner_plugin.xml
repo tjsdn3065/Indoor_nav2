@@ -1,0 +1,9 @@
+<library path="nav2_voronoi_planner">
+  <class type="nav2_voronoi_planner::VoronoiPlanner" base_class_type="nav2_core::GlobalPlanner">
+    <description>
+      Global planner that loads a precomputed Voronoi roadmap from JSON and
+      returns shortest paths via Dijkstra. Suitable for static indoor maps
+      where the roadmap is built offline from a 2D occupancy grid.
+    </description>
+  </class>
+</library>

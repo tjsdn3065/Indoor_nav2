@@ -1,0 +1,5 @@
+
+/**:
+  ros__parameters:
+    Mem/IncrementalMemory: "true"
+    Mem/InitWMWithAllNodes: "false"
