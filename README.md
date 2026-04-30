@@ -10,7 +10,7 @@ supporting TurtleBot3 Burger and Unitree Go2 in simulation.
 
 ## Demo
 
-<video src="https://github.com/user-attachments/assets/84b58da5-e574-474a-8b16-cac23a30ee57" controls></video>
+<video src="https://github.com/user-attachments/assets/704fdade-2215-4625-94eb-1b66b16dc33d" controls></video>
 
 ## Composition
 
